@@ -15,5 +15,4 @@ Omega_matter = 0.3111
 Omega_lambda = 0.6889
 
 sigma_8 = 0.8102
-
 n_s = 0.9665
