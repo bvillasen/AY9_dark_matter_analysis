@@ -1,7 +1,7 @@
 #!/bin/sh -e
 
-myprefix=$HOME/apps
-FFTW_VERSION="3.3.5"
+myprefix=$HOME/AY9_dark_matter_analysis
+FFTW_VERSION="2.1.5"
 # FFTW_VERSION="2.1.5"
 INSTALLDIR="$myprefix/fftw-${FFTW_VERSION}"
 TMP="${PWD}/tmp-fftw-${FFTW_VERSION}"
