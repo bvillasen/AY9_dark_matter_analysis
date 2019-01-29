@@ -47,8 +47,18 @@ cd data
 <li> Download the simulation outputs </li>
 
 ```
-wget https://www.dropbox.com/s/tgurthptvsphah5/128_dm.tar.gz?dl=0
+wget https://www.dropbox.com/s/tgurthptvsphah5/128_dm.tar.gz
 ```
+
+Now you have a file **128_dm.tar.gz** on your data directory, this file is compressed that's why the **.tar.gz** ending.
+
+<li> Extract (decompress) the file: </li>
+
+```
+tar xvzf 128_dm.tar.gz
+```
+
+
 
 
 </ul>
