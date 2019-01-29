@@ -36,13 +36,19 @@ git clone https://github.com/bvillasen/AY9_dark_matter_analysis.git
 cd AY9_dark_matter_analysis
 ```
 
+<li> Enter the data directory:</li>
 
 
 
 ```
-
+cd data
 ```
 
+<li> Download the simulation outputs </li>
+
+```
+wget https://www.dropbox.com/s/tgurthptvsphah5/128_dm.tar.gz?dl=0
+```
 
 
 </ul>
