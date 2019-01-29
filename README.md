@@ -17,3 +17,10 @@ Omega_lambda = 0.6889
 sigma_8 = 0.8102
 
 n_s = 0.9665
+
+
+## Instructions
+
+<ol>
+
+<li> First you need to open a terminal an make sure you are in a directory where you can read/write. </li>
