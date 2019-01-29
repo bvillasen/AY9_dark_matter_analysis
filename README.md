@@ -21,7 +21,7 @@ n_s = 0.9665
 
 ## Instructions
 
-<ul>
+<ol>
 
 <li> First you need to open a terminal an make sure you are in a directory where you can read/write. </li>
 
@@ -44,7 +44,7 @@ cd AY9_dark_matter_analysis
 cd data
 ```
 
-<li> Download the simulation outputs </li>
+<li> Download the simulation outputs: </li>
 
 ```
 wget https://www.dropbox.com/s/tgurthptvsphah5/128_dm.tar.gz
@@ -58,7 +58,20 @@ Now you have a file **128_dm.tar.gz** on your data directory, this file is compr
 tar xvzf 128_dm.tar.gz
 ```
 
+Now you have a folder called **128_dm** with the simualations outputs inside it
 
+<li> Delete the .tar.gz file since we now have the decompressed file, the compressed file is no longer useful </li>
 
+```
+rm 128_dm.tar.gz
+```
 
-</ul>
+<li> See the contents of the 128_dm directory: </li>
+
+```
+ls 128_dm
+```
+
+</ol>
+
+Now you are ready to load the data and do some analysis!
