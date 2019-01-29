@@ -24,3 +24,5 @@ n_s = 0.9665
 <ol>
 
 <li> First you need to open a terminal an make sure you are in a directory where you can read/write. </li>
+
+<li> Clone this repository: **git clone https://github.com/bvillasen/AY9_dark_matter_analysis.git**
