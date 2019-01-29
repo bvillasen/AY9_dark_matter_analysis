@@ -58,9 +58,9 @@ Now you have a file **128_dm.tar.gz** on your data directory, this file is compr
 tar xvzf 128_dm.tar.gz
 ```
 
-Now you have a folder called **128_dm** with the simualations outputs inside it
+Now you have a folder called **128_dm** with the simulations outputs inside it
 
-<li> Delete the .tar.gz file since we now have the decompressed file, the compressed file is no longer useful </li>
+<li> Delete the .tar.gz file. Since we now have the decompressed file, the compressed file is no longer useful </li>
 
 ```
 rm 128_dm.tar.gz
