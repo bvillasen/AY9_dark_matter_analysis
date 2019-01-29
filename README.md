@@ -30,6 +30,19 @@ n_s = 0.9665
 ```
 git clone https://github.com/bvillasen/AY9_dark_matter_analysis.git
 ```
+<li> Enter the newly created directory: </li>
+
+```
+cd AY9_dark_matter_analysis
+```
+
+
+
+
+```
+
+```
+
 
 
 </ul>
