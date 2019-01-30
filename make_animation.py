@@ -9,7 +9,7 @@ outDir = inDir
 image_name = 'particles'
 out_anim_name = 'animation_particles'
 
-cmd = 'ffmpeg -framerate 1 -i '
+cmd = 'ffmpeg -framerate 20 -i '
 cmd += '{0}{1}_%d.png '.format( inDir, image_name )
 cmd += '-pix_fmt yuv420p '
 cmd += '{0}{1}.mp4'.format( outDir, out_anim_name )
