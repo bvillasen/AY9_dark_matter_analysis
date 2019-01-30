@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from subprocess import call
 from shutil import copyfile
 
-inDir = 'images'
+inDir = 'images/'
 outDir = inDir
 image_name = 'particles'
 out_anim_name = 'animation_particles'
