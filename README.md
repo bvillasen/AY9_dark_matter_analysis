@@ -8,7 +8,7 @@ This is the repository for the AY9 Project: **Analysis of Dark Matter Simulation
 
 For the simulations we use the Plank 2018 cosmological parameters:
 
-H_0 = 667.66
+H_0 = 67.66
 
 Omega_matter = 0.3111
 
