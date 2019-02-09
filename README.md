@@ -78,38 +78,42 @@ Now you are ready to load the data and do some analysis!
 
 ### Download new Snapshots for Halo analysis
 
-Go to the project directory
+<ol>
+
+<li>Go to the project directory </li>
 
 ```
 cd AY9_dark_matter_analysis
 ```
 
-Go to the data directory
+<li>Go to the data directory </li>
 
 ```
 cd data
 ```
 
-Delete the previous data 
+<li>Delete the previous data </li>
 
 ```
 rm -r 128_dm
 ```
 
-Download the new data ( this data has a higher Force resolution )
+<li>Download the new data ( this data has a higher Force resolution ) </li>
 
 ```
 wget https://www.dropbox.com/s/tgurthptvsphah5/128_dm.tar.gz
 ```
 
-Extract (decompress) the file:
+<li>Extract (decompress) the file: </li>
 
 ```
 tar xvzf 128_dm_halos.tar.gz
 ```
 
-Delete the .tar.gz file.
+<li>Delete the .tar.gz file. </li>
 
 ```
 rm 128_dm_halos.tar.gz
 ```
+
+</ol>
