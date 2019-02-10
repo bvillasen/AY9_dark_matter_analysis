@@ -101,7 +101,7 @@ rm -r 128_dm
 <li>Download the new data ( this data has a higher Force resolution ) </li>
 
 ```
-wget https://www.dropbox.com/s/tgurthptvsphah5/128_dm.tar.gz
+wget https://www.dropbox.com/s/k3l2erbso3eu8jr/128_dm_halos.tar.gz
 ```
 
 <li>Extract (decompress) the file: </li>
@@ -115,5 +115,26 @@ tar xvzf 128_dm_halos.tar.gz
 ```
 rm 128_dm_halos.tar.gz
 ```
+
+<li>Download the Halo catalogs </li>
+
+```
+wget https://www.dropbox.com/s/xmdvoyiv0phppiq/halo_catalogs_128.tar.gz
+```
+
+<li>Extract (decompress) the file: </li>
+
+```
+tar xvzf halo_catalogs_128.tar.gz
+```
+
+<li>Delete the .tar.gz file. </li>
+
+```
+rm halo_catalogs_128.tar.gz
+```
+
+
+
 
 </ol>
