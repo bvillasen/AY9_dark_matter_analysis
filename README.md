@@ -119,7 +119,7 @@ rm 128_dm_halos.tar.gz
 <li>Download the Halo catalogs </li>
 
 ```
-wget https://www.dropbox.com/s/xmdvoyiv0phppiq/halo_catalogs_128.tar.gz
+wget https://www.dropbox.com/s/mnobu3oqhk3nm4b/halo_catalogs_128.tar.gz
 ```
 
 <li>Extract (decompress) the file: </li>
