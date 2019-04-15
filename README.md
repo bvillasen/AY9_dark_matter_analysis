@@ -133,8 +133,22 @@ tar xvzf halo_catalogs_128.tar.gz
 ```
 rm halo_catalogs_128.tar.gz
 ```
+### Install PYMC
 
+Download the PYMC repository: 
 
+```
+git clone git://github.com/pymc-devs/pymc.git
+```
+
+Configure and install PYMC:
+
+```
+cd pymc
+python setup.py config_fc --fcompiler gfortran build
+python setup.py install --prefix=$HOME/.local
+
+```
 
 
 </ol>
